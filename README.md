@@ -48,6 +48,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <div><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Devrishi-Dutta" alt="GitHub Streak" /></a></div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devrishi-Dutta&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+### :fire: Holopin badges :
+
+[![An image of @devrishidutta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devrishidutta)](https://holopin.io/@devrishidutta)
 
 
 
@@ -62,20 +67,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 
-
-
-
-<!--
-**Devrishi-Dutta/Devrishi-Dutta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

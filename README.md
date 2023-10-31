@@ -45,7 +45,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-<div><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Devrishi-Dutta" alt="GitHub Streak" /></a></div>
+<div><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Devrishi-Dutta" alt="GitHub Streak" /></a></div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devrishi-Dutta&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
 ---
